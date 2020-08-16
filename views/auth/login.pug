@@ -7,7 +7,7 @@ block content
 	if errors
 		each error in errors
 			.alert.alert-danger= error
-	form( method="POST")
+	form( method="POST" )
 			.form-group
 					label Email
 					input#email.form-control(name ="email", type="text")
@@ -15,6 +15,8 @@ block content
 			.form-group
 					label password
 					input#password.form-control(name ="password", type="password")
+
+			
 
 			button Login
 
