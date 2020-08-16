@@ -6,7 +6,9 @@
     },
     {
       "name": "theanh",
-      "id": "sIwLiNWci"
+      "id": "sIwLiNWci",
+      "email": "theanhptit94@gmail.com",
+      "password": "e10adc3949ba59abbe56e057f20f883e"
     },
     {
       "name": "asdsa",
@@ -32,6 +34,16 @@
       "name": "haha",
       "phone": "012345789",
       "id": "JIcglavOw"
+    },
+    {
+      "name": "theanh 222",
+      "phone": "222",
+      "id": "6lGZuUre6"
+    },
+    {
+      "name": "new user",
+      "phone": "12345",
+      "id": "--_VTz3Jt"
     }
   ]
 }

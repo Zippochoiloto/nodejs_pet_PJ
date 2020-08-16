@@ -10,11 +10,11 @@ block content
 	form(action="/users/create", method="POST")
 			.form-group
 					label Name
-					input#name.form-control(name ="name", type="text", value=values.name ? values.name : '')
+					input#name.form-control(name ="name", type="text")
 
 			.form-group
 					label Phone
-					input#phone.form-control(name ="phone", type="number", value=values.phone ? values.phone : '')
+					input#phone.form-control(name ="phone", type="number")
 
 			button Create
 
