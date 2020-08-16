@@ -28,4 +28,4 @@ app.get('/', (req, res) => {
 app.use('/users',authMiddleware.requireAuth, userRoutes)
 app.use('/auth', authRoutes)
 
-app.listen(port, () => console.log(`Example app is running on port ${port}`))
+// app.listen(port, () => console.log(`Example app is running on port ${port}`))
